@@ -1,0 +1,31 @@
+{
+  "id": "5f263635-39ac-483b-b549-68125d755f03",
+  "name": "Performance Optimization Workshop",
+  "publisher": "Vjeko.com",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "75f1590f-55c5-4501-ae63-bada5534e852",
+      "publisher": "Microsoft",
+      "name": "Performance Toolkit",
+      "version": "24.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 76000,
+      "to": 79999
+    }
+  ],
+  "runtime": "13.0"
+}

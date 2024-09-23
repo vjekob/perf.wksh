@@ -1,0 +1,10 @@
+*.app
+.alpackages
+.snapshots
+rad.json
+
+# For training purposes, don't want to enforce my local settings
+.vscode/launch.json
+
+# For preparation purposes
+scripts/RunTests.ps1
